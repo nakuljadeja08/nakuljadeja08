@@ -39,5 +39,3 @@ Let's connect and build something amazing together! Whether it's optimising a da
 ---
 
 ⚡ Fun fact: I turned oil drilling data into $5M savings, now I'm drilling into financial markets with Python!
-
-![Nakul's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakuljadeja08&show_icons=true&theme=radical)
